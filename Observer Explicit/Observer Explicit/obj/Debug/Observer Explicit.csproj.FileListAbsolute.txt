@@ -1,0 +1,6 @@
+C:\Users\Grundig\Desktop\NYP Ödev\Observer Explicit\Observer Explicit\bin\Debug\Observer Explicit.exe.config
+C:\Users\Grundig\Desktop\NYP Ödev\Observer Explicit\Observer Explicit\bin\Debug\Observer Explicit.exe
+C:\Users\Grundig\Desktop\NYP Ödev\Observer Explicit\Observer Explicit\bin\Debug\Observer Explicit.pdb
+C:\Users\Grundig\Desktop\NYP Ödev\Observer Explicit\Observer Explicit\obj\Debug\Observer Explicit.csprojResolveAssemblyReference.cache
+C:\Users\Grundig\Desktop\NYP Ödev\Observer Explicit\Observer Explicit\obj\Debug\Observer Explicit.exe
+C:\Users\Grundig\Desktop\NYP Ödev\Observer Explicit\Observer Explicit\obj\Debug\Observer Explicit.pdb
