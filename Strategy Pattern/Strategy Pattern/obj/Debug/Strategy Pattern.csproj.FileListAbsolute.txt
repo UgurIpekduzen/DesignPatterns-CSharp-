@@ -1,0 +1,6 @@
+C:\Users\Grundig\Desktop\NYP Ödev\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.exe.config
+C:\Users\Grundig\Desktop\NYP Ödev\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.exe
+C:\Users\Grundig\Desktop\NYP Ödev\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.pdb
+C:\Users\Grundig\Desktop\NYP Ödev\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Grundig\Desktop\NYP Ödev\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.exe
+C:\Users\Grundig\Desktop\NYP Ödev\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.pdb
